@@ -27,6 +27,7 @@ input[name="papildus"]{
   padding-right: 10px;
 }
 #kaste{
+  align-content:left;
   align:center;
   width: 456px;
   height:580px;

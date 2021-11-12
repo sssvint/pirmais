@@ -16,8 +16,12 @@ label{
 #kaste{
   align:center;
   width: 456px;
-  height:600px;
+  height:580px;
   border: 2px solid silver;
+}
+#papildus{
+  padding-left: 0px;
+  padding-right: 10px;
 }
 .button {
   background-color: white;
@@ -25,4 +29,5 @@ label{
   color: black;
   padding: 2px;
   text-align: center;
+  display: inline-block;
 }

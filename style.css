@@ -5,17 +5,24 @@ p{
   padding: 2px;
   font-weight: bold;
   border: 2px solid black;
-  border-radius: 2px;
+  border-radius: 5px;
 }
 label{
   padding: 2px;
   font-weight: bold;
   border: 2px solid black;
-  border-radius: 2px;
+  border-radius: 5px;
 }
 #kaste{
   align:center;
   width: 456px;
   height:600px;
   border: 2px solid silver;
+}
+.button {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  padding: 2px;
+  text-align: center;
 }

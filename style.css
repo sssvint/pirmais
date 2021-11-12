@@ -3,6 +3,13 @@ body{
 }
 p{
   font-weight: bold;
-  padding: 10px;
+  padding: 5px;
   border: 2px solid black;
+  border-radius: 10px;
+}
+#kaste{
+  width: 456px;
+  height:546px;
+  border: 2px solid gray;
+  text-align: center;
 }

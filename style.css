@@ -2,6 +2,7 @@ body{
   font-family: Arial;
 }
 p{
+  text-align:left;
   padding: 2px;
   width: 200px;
   font-weight: bold;
@@ -9,16 +10,19 @@ p{
   border-radius: 5px;
 }
 label{
+  text-align:left;
   padding: 2px;
   font-weight: bold;
   border: 2px solid black;
   border-radius: 5px;
 }
 input[name="vecums"]{
+  text-align:left;
   padding-left: 0px;
   padding-right: 0px;
 }
 input[name="papildus"]{
+  text-align:left;
   padding-left: 0px;
   padding-right: 10px;
 }
@@ -29,6 +33,7 @@ input[name="papildus"]{
   border: 2px solid #e6e6e6;
 }
 button {
+  align:right;
   background-color: white;
   border: 2px solid black;
   color: black;

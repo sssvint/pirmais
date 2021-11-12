@@ -3,8 +3,7 @@ body{
 }
 p{
   padding: 2px;
-  padding-left: 2px;
-  padding-right:2px;
+  width: 20px;
   font-weight: bold;
   border: 2px solid black;
   border-radius: 5px;

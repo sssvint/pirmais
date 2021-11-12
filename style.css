@@ -2,17 +2,19 @@ body{
   font-family: Arial;
 }
 p{
+  padding: 2px;
   font-weight: bold;
   border: 2px solid black;
-  border-radius: 10px;
+  border-radius: 2px;
 }
 label{
+  padding: 2px;
   font-weight: bold;
   border: 2px solid black;
-  border-radius: 10px;
+  border-radius: 2px;
 }
 #kaste{
-  align:center
+  align:center;
   width: 456px;
   height:600px;
   border: 2px solid silver;

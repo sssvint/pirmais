@@ -9,23 +9,14 @@ p{
   border: 2px solid black;
   border-radius: 5px;
 }
-label{
+.label{
   text-align:left;
   padding: 2px;
   font-weight: bold;
   border: 2px solid black;
   border-radius: 5px;
 }
-input[name="vecums"]{
-  text-align:left;
-  padding-left: 0px;
-  padding-right: 0px;
-}
-input[name="papildus"]{
-  text-align:left;
-  padding-left: 0px;
-  padding-right: 10px;
-}
+
 #kaste{
   align-content:left;
   align:center;

@@ -47,6 +47,7 @@ button {
 }
 #form{
   float: left;
+  padding-left:40px;
 }
 #button{
   float: right;

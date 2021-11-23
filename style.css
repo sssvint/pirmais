@@ -44,3 +44,12 @@ button {
   display: inline-block;
   font-weight:bold;
 }
+#title{
+  float: center;
+}
+#form{
+  float: left;
+}
+#button{
+  float: right;
+}

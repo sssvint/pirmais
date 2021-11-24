@@ -43,6 +43,7 @@ button {
   text-align: center;
   display: inline-block;
   font-weight:bold;
+  border-radius: 5px;
 }
 #form{
   float: left;

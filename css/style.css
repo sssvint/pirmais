@@ -48,3 +48,6 @@ button {
   align: left;
   padding-left:40px;
 }
+#submit{
+  text-align: right;
+}

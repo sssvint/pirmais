@@ -27,14 +27,14 @@ span{
   padding-left:0px;
   padding-right:30px;
 }
-input type=["checkbox"]{
+input type=[checkbox]{
   position: absolute;
   opacity: 0;
   cursor: pointer;
   height: 0;
   width: 0;
 }
-checkbox {
+checkmark {
   position: absolute;
   top: 0;
   left: 0;

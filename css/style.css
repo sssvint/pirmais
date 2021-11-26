@@ -11,7 +11,7 @@ span{
   text-align:left;
   padding: 2px;
   font-weight: bold;
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 5px;
   padding: 2px;
 }
@@ -27,7 +27,7 @@ span{
   padding-left:0px;
   padding-right:30px;
 }
-checkbox input{
+input type=["checkbox"]{
   position: absolute;
   opacity: 0;
   cursor: pointer;

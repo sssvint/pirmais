@@ -15,6 +15,9 @@ span{
   border-radius: 5px;
   padding: 2px;
 }
+.label{
+  padding-right: 30px;
+}
 .vards{
   padding-left: 7px;
   padding-right: 7px;

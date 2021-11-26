@@ -11,7 +11,7 @@ span{
   text-align:left;
   padding: 2px;
   font-weight: bold;
-  border: 2px solid black;
+  border: 1px solid black;
   border-radius: 5px;
   padding: 2px;
 }
@@ -27,14 +27,14 @@ span{
   padding-left:0px;
   padding-right:30px;
 }
-.papildus input{
+checkbox input{
   position: absolute;
   opacity: 0;
   cursor: pointer;
   height: 0;
   width: 0;
 }
-.checkbox {
+checkbox {
   position: absolute;
   top: 0;
   left: 0;

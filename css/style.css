@@ -43,6 +43,7 @@ checkbox{
   height:75%;
   border: 2px solid #e6e6e6;
   padding: 7px 7px 7px 7px;
+  maring: 7px 7px 7px 7px;
 }
 button {
   background-color: white;
